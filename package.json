@@ -1,0 +1,22 @@
+{
+  "name": "mmall-ui",
+  "version": "1.0.0",
+  "description": "mmall前段代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangchao123321/mmall-ui.git"
+  },
+  "author": "wangchao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangchao123321/mmall-ui/issues"
+  },
+  "homepage": "https://github.com/wangchao123321/mmall-ui#readme",
+  "devDependencies": {
+    "webpack": "^1.15.0"
+  }
+}
